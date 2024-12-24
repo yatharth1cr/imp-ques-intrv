@@ -1,5 +1,6 @@
 # Longest Compounded Words Finder
 
+
 Identifies the longest and second-longest compounded words from a text file.
 
 ## Features
