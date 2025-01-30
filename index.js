@@ -13,6 +13,7 @@ function isCompoundedWord(word, wordSet, memo) {
   if (memo.has(word)) return memo.get(word);
 
   for (let i = 1; i < word.length; i++) {
+    //prefix and suffix
     const prefix = word.slice(0, i);
     const suffix = word.slice(i);
 

@@ -4,6 +4,6 @@ catsdogcats
 catxdogcatsrat
 dog
 dogcatsdog
-hippopotamuses
+hipopotamuses
 rat
 ratcatdogcat
